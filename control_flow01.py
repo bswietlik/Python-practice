@@ -82,7 +82,7 @@ def always_false(num):
 print(always_false(0))
 print(always_false(-1))
 print(always_false(1))
-print("9----")
+print("9--------")
 
 #9. Movie Reviex
 def movie_review(rating):
